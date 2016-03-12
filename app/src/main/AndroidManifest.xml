@@ -18,6 +18,10 @@
         <activity
             android:name=".splash"
             android:label="@string/title_activity_splash"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".App_Intro"
+            android:label="@string/title_activity_app__intro"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
