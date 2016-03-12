@@ -22,6 +22,10 @@
         <activity
             android:name=".App_Intro"
             android:label="@string/title_activity_app__intro"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".side_menu"
+            android:label="@string/title_activity_side_menu"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 

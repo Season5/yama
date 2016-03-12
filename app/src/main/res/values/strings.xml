@@ -2,4 +2,5 @@
     <string name="app_name">Yama</string>
     <string name="title_activity_splash">splash</string>
     <string name="title_activity_app__intro">App_Intro</string>
+    <string name="title_activity_side_menu">side_menu</string>
 </resources>
