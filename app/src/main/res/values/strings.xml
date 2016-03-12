@@ -5,4 +5,5 @@
     <string name="title_activity_side_menu">side_menu</string>
     <string name="title_activity_audio">Audio</string>
     <string name="title_activity_video">Video</string>
+    <string name="title_activity_buy">Buy</string>
 </resources>

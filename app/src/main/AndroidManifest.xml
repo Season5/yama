@@ -34,6 +34,10 @@
         <activity
             android:name=".Video"
             android:label="@string/title_activity_video"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Buy"
+            android:label="@string/title_activity_buy"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
