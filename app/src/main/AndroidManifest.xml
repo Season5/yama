@@ -38,6 +38,10 @@
         <activity
             android:name=".Buy"
             android:label="@string/title_activity_buy"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".About"
+            android:label="@string/title_activity_about"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
