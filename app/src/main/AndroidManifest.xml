@@ -26,6 +26,14 @@
         <activity
             android:name=".side_menu"
             android:label="@string/title_activity_side_menu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Audio"
+            android:label="@string/title_activity_audio"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Video"
+            android:label="@string/title_activity_video"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
