@@ -7,4 +7,5 @@
     <string name="title_activity_video">Video</string>
     <string name="title_activity_buy">Buy</string>
     <string name="title_activity_about">About</string>
+    <string name="DEVELOPER_KEY">Youtube</string>
 </resources>
